@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "//Manoj442.github.io/MyYouTube/static/css/main.0dc9b3e0.chunk.css",
-    "main.js": "//Manoj442.github.io/MyYouTube/static/js/main.35d3ff8f.chunk.js",
-    "main.js.map": "//Manoj442.github.io/MyYouTube/static/js/main.35d3ff8f.chunk.js.map",
-    "runtime-main.js": "//Manoj442.github.io/MyYouTube/static/js/runtime-main.efa513ca.js",
-    "runtime-main.js.map": "//Manoj442.github.io/MyYouTube/static/js/runtime-main.efa513ca.js.map",
-    "static/css/2.b88df90e.chunk.css": "//Manoj442.github.io/MyYouTube/static/css/2.b88df90e.chunk.css",
-    "static/js/2.cb5faabd.chunk.js": "//Manoj442.github.io/MyYouTube/static/js/2.cb5faabd.chunk.js",
-    "static/js/2.cb5faabd.chunk.js.map": "//Manoj442.github.io/MyYouTube/static/js/2.cb5faabd.chunk.js.map",
-    "index.html": "//Manoj442.github.io/MyYouTube/index.html",
-    "precache-manifest.efcdf852bbe526878aeb7410ef86706c.js": "//Manoj442.github.io/MyYouTube/precache-manifest.efcdf852bbe526878aeb7410ef86706c.js",
-    "service-worker.js": "//Manoj442.github.io/MyYouTube/service-worker.js",
-    "static/css/2.b88df90e.chunk.css.map": "//Manoj442.github.io/MyYouTube/static/css/2.b88df90e.chunk.css.map",
-    "static/css/main.0dc9b3e0.chunk.css.map": "//Manoj442.github.io/MyYouTube/static/css/main.0dc9b3e0.chunk.css.map",
-    "static/js/2.cb5faabd.chunk.js.LICENSE.txt": "//Manoj442.github.io/MyYouTube/static/js/2.cb5faabd.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "//Manoj442.github.io/MyYouTube/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/MyYouTube/static/css/main.0dc9b3e0.chunk.css",
+    "main.js": "/MyYouTube/static/js/main.2413b54c.chunk.js",
+    "main.js.map": "/MyYouTube/static/js/main.2413b54c.chunk.js.map",
+    "runtime-main.js": "/MyYouTube/static/js/runtime-main.f63ad9c5.js",
+    "runtime-main.js.map": "/MyYouTube/static/js/runtime-main.f63ad9c5.js.map",
+    "static/css/2.1a4b2e7b.chunk.css": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css",
+    "static/js/2.cb5faabd.chunk.js": "/MyYouTube/static/js/2.cb5faabd.chunk.js",
+    "static/js/2.cb5faabd.chunk.js.map": "/MyYouTube/static/js/2.cb5faabd.chunk.js.map",
+    "index.html": "/MyYouTube/index.html",
+    "precache-manifest.636cff9745302ac81488b2d7e24365c1.js": "/MyYouTube/precache-manifest.636cff9745302ac81488b2d7e24365c1.js",
+    "service-worker.js": "/MyYouTube/service-worker.js",
+    "static/css/2.1a4b2e7b.chunk.css.map": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css.map",
+    "static/css/main.0dc9b3e0.chunk.css.map": "/MyYouTube/static/css/main.0dc9b3e0.chunk.css.map",
+    "static/js/2.cb5faabd.chunk.js.LICENSE.txt": "/MyYouTube/static/js/2.cb5faabd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/MyYouTube/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.efa513ca.js",
-    "static/css/2.b88df90e.chunk.css",
+    "static/js/runtime-main.f63ad9c5.js",
+    "static/css/2.1a4b2e7b.chunk.css",
     "static/js/2.cb5faabd.chunk.js",
     "static/css/main.0dc9b3e0.chunk.css",
-    "static/js/main.35d3ff8f.chunk.js"
+    "static/js/main.2413b54c.chunk.js"
   ]
 }
