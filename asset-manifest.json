@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MyYouTube/static/css/main.0dc9b3e0.chunk.css",
+    "main.css": "/MyYouTube/static/css/main.eba2e664.chunk.css",
     "main.js": "/MyYouTube/static/js/main.2413b54c.chunk.js",
     "main.js.map": "/MyYouTube/static/js/main.2413b54c.chunk.js.map",
     "runtime-main.js": "/MyYouTube/static/js/runtime-main.f63ad9c5.js",
@@ -9,10 +9,10 @@
     "static/js/2.cb5faabd.chunk.js": "/MyYouTube/static/js/2.cb5faabd.chunk.js",
     "static/js/2.cb5faabd.chunk.js.map": "/MyYouTube/static/js/2.cb5faabd.chunk.js.map",
     "index.html": "/MyYouTube/index.html",
-    "precache-manifest.636cff9745302ac81488b2d7e24365c1.js": "/MyYouTube/precache-manifest.636cff9745302ac81488b2d7e24365c1.js",
+    "precache-manifest.4020e787ef9effd897ae504cf28f1275.js": "/MyYouTube/precache-manifest.4020e787ef9effd897ae504cf28f1275.js",
     "service-worker.js": "/MyYouTube/service-worker.js",
     "static/css/2.1a4b2e7b.chunk.css.map": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css.map",
-    "static/css/main.0dc9b3e0.chunk.css.map": "/MyYouTube/static/css/main.0dc9b3e0.chunk.css.map",
+    "static/css/main.eba2e664.chunk.css.map": "/MyYouTube/static/css/main.eba2e664.chunk.css.map",
     "static/js/2.cb5faabd.chunk.js.LICENSE.txt": "/MyYouTube/static/js/2.cb5faabd.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/MyYouTube/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.f63ad9c5.js",
     "static/css/2.1a4b2e7b.chunk.css",
     "static/js/2.cb5faabd.chunk.js",
-    "static/css/main.0dc9b3e0.chunk.css",
+    "static/css/main.eba2e664.chunk.css",
     "static/js/main.2413b54c.chunk.js"
   ]
 }
