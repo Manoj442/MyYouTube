@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ee502ff77903de353190839d25639e9",
+    "revision": "b4c3763deb1d41d33111a1c564fcfb11",
     "url": "/MyYouTube/index.html"
   },
   {
-    "revision": "2ac3287c2ff4881c113f",
+    "revision": "cc503cfd422318633158",
     "url": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css"
   },
   {
-    "revision": "165a87aa7cfdfc8c7af6",
-    "url": "/MyYouTube/static/css/main.40219541.chunk.css"
+    "revision": "ff8d5e64090e495e9694",
+    "url": "/MyYouTube/static/css/main.ce30a512.chunk.css"
   },
   {
-    "revision": "2ac3287c2ff4881c113f",
-    "url": "/MyYouTube/static/js/2.cb5faabd.chunk.js"
+    "revision": "cc503cfd422318633158",
+    "url": "/MyYouTube/static/js/2.72ea68bc.chunk.js"
   },
   {
-    "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/MyYouTube/static/js/2.cb5faabd.chunk.js.LICENSE.txt"
+    "revision": "4a1691fd44116c5f8c99a494e6966d73",
+    "url": "/MyYouTube/static/js/2.72ea68bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "165a87aa7cfdfc8c7af6",
-    "url": "/MyYouTube/static/js/main.2413b54c.chunk.js"
+    "revision": "ff8d5e64090e495e9694",
+    "url": "/MyYouTube/static/js/main.b3db757a.chunk.js"
   },
   {
     "revision": "873e5e95015062bed493",
