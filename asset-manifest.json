@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MyYouTube/static/css/main.ce30a512.chunk.css",
-    "main.js": "/MyYouTube/static/js/main.95444b61.chunk.js",
-    "main.js.map": "/MyYouTube/static/js/main.95444b61.chunk.js.map",
+    "main.css": "/MyYouTube/static/css/main.56b653d8.chunk.css",
+    "main.js": "/MyYouTube/static/js/main.ab4bfd9a.chunk.js",
+    "main.js.map": "/MyYouTube/static/js/main.ab4bfd9a.chunk.js.map",
     "runtime-main.js": "/MyYouTube/static/js/runtime-main.f63ad9c5.js",
     "runtime-main.js.map": "/MyYouTube/static/js/runtime-main.f63ad9c5.js.map",
-    "static/css/2.1a4b2e7b.chunk.css": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css",
-    "static/js/2.72ea68bc.chunk.js": "/MyYouTube/static/js/2.72ea68bc.chunk.js",
-    "static/js/2.72ea68bc.chunk.js.map": "/MyYouTube/static/js/2.72ea68bc.chunk.js.map",
+    "static/css/2.76d882da.chunk.css": "/MyYouTube/static/css/2.76d882da.chunk.css",
+    "static/js/2.96a9c59e.chunk.js": "/MyYouTube/static/js/2.96a9c59e.chunk.js",
+    "static/js/2.96a9c59e.chunk.js.map": "/MyYouTube/static/js/2.96a9c59e.chunk.js.map",
     "index.html": "/MyYouTube/index.html",
-    "precache-manifest.0fdad492658e217a5681fc1a9967e17d.js": "/MyYouTube/precache-manifest.0fdad492658e217a5681fc1a9967e17d.js",
+    "precache-manifest.f291c73c89f6cf004141042073df8ea4.js": "/MyYouTube/precache-manifest.f291c73c89f6cf004141042073df8ea4.js",
     "service-worker.js": "/MyYouTube/service-worker.js",
-    "static/css/2.1a4b2e7b.chunk.css.map": "/MyYouTube/static/css/2.1a4b2e7b.chunk.css.map",
-    "static/css/main.ce30a512.chunk.css.map": "/MyYouTube/static/css/main.ce30a512.chunk.css.map",
-    "static/js/2.72ea68bc.chunk.js.LICENSE.txt": "/MyYouTube/static/js/2.72ea68bc.chunk.js.LICENSE.txt",
+    "static/css/2.76d882da.chunk.css.map": "/MyYouTube/static/css/2.76d882da.chunk.css.map",
+    "static/css/main.56b653d8.chunk.css.map": "/MyYouTube/static/css/main.56b653d8.chunk.css.map",
+    "static/js/2.96a9c59e.chunk.js.LICENSE.txt": "/MyYouTube/static/js/2.96a9c59e.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/MyYouTube/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.f63ad9c5.js",
-    "static/css/2.1a4b2e7b.chunk.css",
-    "static/js/2.72ea68bc.chunk.js",
-    "static/css/main.ce30a512.chunk.css",
-    "static/js/main.95444b61.chunk.js"
+    "static/css/2.76d882da.chunk.css",
+    "static/js/2.96a9c59e.chunk.js",
+    "static/css/main.56b653d8.chunk.css",
+    "static/js/main.ab4bfd9a.chunk.js"
   ]
 }
